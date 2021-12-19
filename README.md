@@ -19,6 +19,8 @@ THEN I am again presented with current and future conditions for that city
 
 ## Links
 
+
+
 ## ScreenShot
 
 ![Screenshot 2021-12-19 140640](https://user-images.githubusercontent.com/92322247/146689503-c02e0003-2c7e-4919-b8f4-06acba921c2f.png)
@@ -27,7 +29,11 @@ THEN I am again presented with current and future conditions for that city
 ## Built With
 
 -Moment.js
+
 -Bootstrap
+
 -Javascript
+
 -HTML
+
 -CSS
