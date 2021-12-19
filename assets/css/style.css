@@ -7,13 +7,33 @@ header {
 body {
     margin: 0;
 }
+
 .search-column {
     background-color:	#D3D3D3;
 }
+
 .list-group-item{
     line-height: 0.5;
     border: none;
 }
+
 .card-body{
     flex:auto
+}
+
+.severe{
+    padding: 3px;
+    background-color: red;
+    color:white;
+}
+
+.moderate{
+    padding: 3px;
+    background-color: yellow;
+}
+
+.favorable{
+    padding: 3px;
+    background-color: green;
+    color:white;
 }
