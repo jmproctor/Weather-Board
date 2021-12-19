@@ -19,7 +19,9 @@ THEN I am again presented with current and future conditions for that city
 
 ## Links
 
+link to site: https://jmproctor.github.io/Weather-Board/
 
+link to github: https://github.com/jmproctor/Weather-Board
 
 ## ScreenShot
 
